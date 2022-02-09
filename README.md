@@ -4,15 +4,9 @@ This is a to do list where one can add, edit and delete any task along with sort
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-
-### Links
-
-- Live Site URL: (https://ayush-attendance-mgmt-sys.netlify.app/)
 
 ## My process
 
